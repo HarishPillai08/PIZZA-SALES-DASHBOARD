@@ -67,7 +67,7 @@ This end-to-end **Pizza Sales Analysis** project transforms raw sales data into 
 
 ### Main Dashboard:
 ![Pizza Sales Main Dashboard[]
-(https://github.com/HarishPillai08/PIZZA-SALES-DASHBOARD/blob/main/PIZZASALES%20DB%20SCREENSHOT%20MAIN.png)
+https://github.com/HarishPillai08/PIZZA-SALES-DASHBOARD/raw/main/PIZZASALES%20DB%20SCREENSHOT%20MAIN.png
 
 ### Best/Worst Seller Dashboard:
 ![Pizza Sales Best/Worst Seller Dashboard] 
