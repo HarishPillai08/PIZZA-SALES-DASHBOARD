@@ -91,4 +91,4 @@ It’s a practical use case for **real-world business intelligence** and an exce
 ---
 ## 🔗 Contact  
 **Created by:** Harish Pillai  
-**Connect on LinkedIn:** [Your LinkedIn URL]  
+**Connect on LinkedIn:** https://www.linkedin.com/in/harishpillaiofficial/) 
