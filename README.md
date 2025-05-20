@@ -9,8 +9,8 @@ This end-to-end **Pizza Sales Analysis** project transforms raw sales data into 
 ---
 
 ## 🛠 Tech Stack Used
-- **📊 Power BI** – Dashboard creation and data visualization  
-- **🗃 SQL (SQLite/MySQL)** – Data filtering, transformation, and aggregation queries  
+- **📊 Power BI** – Dashboard creation and data visualization ,  Dax , Power Query
+- **🗃 SQL (MySQL)** – Data filtering, transformation, and aggregation queries  
 - **📄 Excel** – Initial data cleaning, structure formatting, and exploration  
 
 ---
@@ -63,7 +63,7 @@ This end-to-end **Pizza Sales Analysis** project transforms raw sales data into 
 - Business is strongest at the **end of the workweek** (Friday), suggesting promotional opportunities.
 
 ---
-## 📌 Screenshots
+
 
 ## 📌 Screenshots
 
