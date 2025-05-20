@@ -65,13 +65,13 @@ This end-to-end **Pizza Sales Analysis** project transforms raw sales data into 
 ---
 ## 📌 Screenshots
 
+## 📌 Screenshots
+
 ### Main Dashboard:
-![Pizza Sales Main Dashboard[]
-https://github.com/HarishPillai08/PIZZA-SALES-DASHBOARD/raw/main/PIZZASALES%20DB%20SCREENSHOT%20MAIN.png
+![Main Dashboard](https://raw.githubusercontent.com/HarishPillai08/PIZZA-SALES-DASHBOARD/main/PIZZASALES%20DB%20SCREENSHOT%20MAIN.png)
 
 ### Best/Worst Seller Dashboard:
-![Pizza Sales Best/Worst Seller Dashboard] 
-https://github.com/HarishPillai08/PIZZA-SALES-DASHBOARD/blob/main/PIZZASALES%20DB%20SCREENSHOT%2002.png?raw=true
+![Best/Worst Seller Dashboard](https://raw.githubusercontent.com/HarishPillai08/PIZZA-SALES-DASHBOARD/main/PIZZASALES%20DB%20SCREENSHOT%2002.png)
 
 ## 📈 Tools & Skills Demonstrated
 - **Power BI**: Slicers, bar charts, line graphs, pie charts, KPIs, filters, and bookmarks  
